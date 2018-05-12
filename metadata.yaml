@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7772
     wikipedia: http://en.wikipedia.org/wiki/Anna_Brownell_Jameson
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/36820#Visits-and-Sketches-at-Home-and-Abroad-with-Tales-and-Miscellanies-Now-First-CollectedVol.-II_
 gutenberg_issued: '2011-07-23'
 gutenberg_type: Text
 identifiers:
