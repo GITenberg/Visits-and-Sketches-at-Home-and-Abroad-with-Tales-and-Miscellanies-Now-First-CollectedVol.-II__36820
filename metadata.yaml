@@ -1,0 +1,31 @@
+_repo: Visits-and-Sketches-at-Home-and-Abroad-with-Tales-and-Miscellanies-Now-First-CollectedVol.-II__36820
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 36820-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Jameson, Mrs. (Anna)
+    aliases:
+    - Murphy, Anna Brownell
+    - Jameson, Anna Brownell Murphy
+    birthdate: 1794
+    deathdate: 1860
+    gutenberg_agent_id: '7772'
+    url: http://www.gutenberg.org/2009/agents/7772
+    wikipedia: http://en.wikipedia.org/wiki/Anna_Brownell_Jameson
+description: ''
+gutenberg_issued: '2011-07-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36820'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Germany -- Description and travel'
+- !lcc 'DD'
+title: "Visits and Sketches at Home and Abroad, Vol. 3 (of 3)\r\nWith Tales and Miscellanies\
+  \ Now First Collected"
+url: http://www.gutenberg.org/ebooks/36820
